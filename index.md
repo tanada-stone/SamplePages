@@ -1,1 +1,2 @@
 Hello
+![pic](./strings.jpg)
